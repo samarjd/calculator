@@ -1,3 +1,7 @@
+# Live demo
+
+https://movieland-tau.vercel.app/](https://calculator-lovat-two-17.vercel.app/
+
 # Calculator
 
 This is a simple calculator project created using vanilla javascript
