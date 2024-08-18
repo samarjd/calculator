@@ -1,6 +1,6 @@
 # Live demo
 
-https://movieland-tau.vercel.app/](https://calculator-lovat-two-17.vercel.app/
+https://calculator-lovat-two-17.vercel.app/
 
 # Calculator
 
