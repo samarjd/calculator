@@ -12,7 +12,7 @@ This is a simple calculator project created using vanilla javascript
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/workspace/calculator.git`
+1. Clone the repository: `git clone git@github.com:samarjd/calculator.git`
 2. Navigate to the project directory: `cd calculator`
 3. Start the live server
 
